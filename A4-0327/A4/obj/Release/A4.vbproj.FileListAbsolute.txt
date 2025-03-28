@@ -1,0 +1,38 @@
+C:\Users\user\Desktop\새 폴더\A4\bin\Release\A4.exe.config
+C:\Users\user\Desktop\새 폴더\A4\bin\Release\A4.exe
+C:\Users\user\Desktop\새 폴더\A4\bin\Release\A4.pdb
+C:\Users\user\Desktop\새 폴더\A4\bin\Release\A4.xml
+C:\Users\user\Desktop\새 폴더\A4\bin\Release\EPPlus.dll
+C:\Users\user\Desktop\새 폴더\A4\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\user\Desktop\새 폴더\A4\bin\Release\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\새 폴더\A4\bin\Release\EPPlus.xml
+C:\Users\user\Desktop\새 폴더\A4\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\user\Desktop\새 폴더\A4\obj\Release\A4.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\새 폴더\A4\obj\Release\A4.vbproj.ResolveComReference.cache
+C:\Users\user\Desktop\새 폴더\A4\obj\Release\A4.Form1.resources
+C:\Users\user\Desktop\새 폴더\A4\obj\Release\A4.Resources.resources
+C:\Users\user\Desktop\새 폴더\A4\obj\Release\A4.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\새 폴더\A4\obj\Release\A4.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\새 폴더\A4\obj\Release\A4.vbproj.Up2Date
+C:\Users\user\Desktop\새 폴더\A4\obj\Release\A4.exe
+C:\Users\user\Desktop\새 폴더\A4\obj\Release\A4.xml
+C:\Users\user\Desktop\새 폴더\A4\obj\Release\A4.pdb
+C:\Users\user\Desktop\newFolder\A4\bin\Release\A4.exe.config
+C:\Users\user\Desktop\newFolder\A4\bin\Release\A4.exe
+C:\Users\user\Desktop\newFolder\A4\bin\Release\A4.pdb
+C:\Users\user\Desktop\newFolder\A4\bin\Release\A4.xml
+C:\Users\user\Desktop\newFolder\A4\bin\Release\EPPlus.dll
+C:\Users\user\Desktop\newFolder\A4\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\user\Desktop\newFolder\A4\bin\Release\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\newFolder\A4\bin\Release\EPPlus.xml
+C:\Users\user\Desktop\newFolder\A4\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\user\Desktop\newFolder\A4\obj\Release\A4.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\newFolder\A4\obj\Release\A4.vbproj.ResolveComReference.cache
+C:\Users\user\Desktop\newFolder\A4\obj\Release\A4.Form1.resources
+C:\Users\user\Desktop\newFolder\A4\obj\Release\A4.Resources.resources
+C:\Users\user\Desktop\newFolder\A4\obj\Release\A4.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\newFolder\A4\obj\Release\A4.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\newFolder\A4\obj\Release\A4.vbproj.Up2Date
+C:\Users\user\Desktop\newFolder\A4\obj\Release\A4.exe
+C:\Users\user\Desktop\newFolder\A4\obj\Release\A4.xml
+C:\Users\user\Desktop\newFolder\A4\obj\Release\A4.pdb
